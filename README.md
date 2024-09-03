@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter and Dart
 - 💞️ I’m looking to collaborate on a Flutter project
 - 📫 How to reach me email me using: info@codeblock.nl
+- Learn more about my company: https://codeblock.nl
 
 <!---
 roygroothulze/roygroothulze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
