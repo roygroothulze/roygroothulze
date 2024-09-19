@@ -1,8 +1,10 @@
+# Elevating Your App Development
+
 - 👋 Hi, I’m @roygroothulze
 - 👀 I’m interested in computer technologie
-- 🌱 I’m currently learning Flutter and Dart
+- 🌱 I’m currently using Flutter and Dart
 - 💞️ I’m looking to collaborate on a Flutter project
-- 📫 How to reach me email me using: info@codeblock.nl
+- 📫 Email me on info@roygroothulze.nl or info@codeblock.nl
 - Learn more about my company: https://codeblock.nl
 
 <!---
